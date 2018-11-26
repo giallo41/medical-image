@@ -1,0 +1,6 @@
+numpy
+keras
+nibabel
+nibabel
+pydicom
+medpy
